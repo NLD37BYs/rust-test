@@ -1,0 +1,11 @@
+{
+    "rust.mode": "rls",
+    "rust.cargoHomePath": "%CARGO_HOME%",
+    "rust.cargoPath": "%RUSTBINPATH%\\cargo.exe",
+    "rust.racerPath": "%RUSTBINPATH%\\racer.exe",
+    "rust.rls": "%RUSTBINPATH%\\rls.exe",
+    "rust.rustfmtPath": "%RUSTBINPATH%\\rustfmt.exe",
+    "rust.rustup": "%RUSTBINPATH%\\rustup.exe",
+    "rust.rustLangSrcPath": "%RUST_SRC_PATH%",
+    "rust.executeCargoCommandInTerminal": true
+}
