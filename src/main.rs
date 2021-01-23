@@ -1,8 +1,13 @@
 fn main() {
     println!{"Hello World!"};
-    innmn()
+    hello2();
+    hello3()
 } 
 
-fn innmn() {
+fn hello2() {
     println!("Hello World!");
+}
+
+fn hello3() {
+    println!("Hello Hello World!");
 }
